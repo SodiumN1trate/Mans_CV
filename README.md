@@ -4,21 +4,21 @@ Tas esmu es Renārs Gausiņš un man ir 17 gadi. Interesējos par datoriem no č
 
 # Kods
 ''' 
-    def fibonacci(UserInput):
-        if UserInput == 0:
-            print("Fibonačī skaitlis: 0")
-        elif UserInput == 1:
-            print("Fibonačī skaitlis: 1")
-        else:    
-            FibonacciList = [1,1]
-            print(FibonacciList[len(FibonacciList) - 1])
-            for digit in range(UserInput - 2):
-                print(FibonacciList.append(FibonacciList[len(FibonacciList) - 2] + FibonacciList[len(FibonacciList) - 1]))
-                print(FibonacciList)
-            print("Fibonačī skaitlis: " , max(FibonacciList))
+def fibonacci(UserInput):
+    if UserInput == 0:
+        print("Fibonačī skaitlis: 0")
+    elif UserInput == 1:
+        print("Fibonačī skaitlis: 1")
+    else:    
+        FibonacciList = [1,1]
+        print(FibonacciList[len(FibonacciList) - 1])
+        for digit in range(UserInput - 2):
+            print(FibonacciList.append(FibonacciList[len(FibonacciList) - 2] + FibonacciList[len(FibonacciList) - 1]))
+            print(FibonacciList)
+        print("Fibonačī skaitlis: " , max(FibonacciList))
 
-    UserInput = int(input("Ievadiet fibonačī kārtas skaitli: "))
-    fibonacci(UserInput)
+UserInput = int(input("Ievadiet fibonačī kārtas skaitli: "))
+fibonacci(UserInput)
 '''
 
 
