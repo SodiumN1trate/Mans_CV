@@ -3,8 +3,8 @@
 Tas esmu es Renārs Gausiņš un man ir 17 gadi. Interesējos par datoriem no četru gadu vecuma, un jau divus gadu kā nodarbojos ar mājaslapu izveidi uz Python Django. Esmu iesaistijies viss visādās programmēšanas sfērās robotika, spēļu izveide, programmu izveidi u.t.t.
 
 # Kods
-'''
-import pyautogui
+
+`import pyautogui
 import time
 
 time.sleep(10)
@@ -12,14 +12,14 @@ time.sleep(10)
 status = 0
 
 for x in range(0, 300):
-    pyautogui.click()
+    pyautogui.click()`
 
-'''
 
 
 Šī ir programma kas pati spiež uz cookie clicker cepuma. Šo programmu rakstīju kaut kur pusgadu atpakaļ.
 
 # Konkursi un panākumi
+
 Man ļoti patīk piedalīties viss visādos konkursos. Kad gāju 4. klasē mani ieinteresēja robotika kur vajadzēja taisīt robotus un algoritmus tiem. 4. klases beigās man bija pietiekami daudz pieredzes pēc skolotāja teiktā ka varu piedalīties sumo botu sacensībās, un kaut kur no ~100 vai vairāk dalībniekiem, es ar savu komandas biedru ieguvām septīto vietu Latvijā. Tikai tagad esmu sācis saprast cik tas ir forši.
 ---
 ![Bilde netika lejuplādēta](bilde.jpg)
