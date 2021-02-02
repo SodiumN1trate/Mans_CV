@@ -13,10 +13,13 @@ status = 0
 
 for x in range(0, 300):
     pyautogui.click()
+
 '''
 
 
-Šī ir programma kas aprēķina fibonacci skaitļus. Šo programmu rakstīju kaut kur pusgadu atpakaļ. Intreses pēc man vajadzētu uztaisīt vel vienu reizi šo pašu programmu un salīdzināt vai esmu progresējis programmēšanā.
+Šī ir programma kas pati spiež uz cookie clicker cepuma. Šo programmu rakstīju kaut kur pusgadu atpakaļ.
 
 # Konkursi un panākumi
-Man ļoti patīk piedalīties viss visādos konkursos. Kad gāju 4. klasē mani ieinteresēja robotika kur vajadzēja taisīt robotus un algoritmus tiem. 4. klases beigās man bija pietiekami daudz pieredzes pēc skolotāja teiktā ka varu piedalīties sumo botu sacensībās, un kaut kur no ~100 vai vairāk dalībniekiem es ar savu komandas biedru ieguvām septīto bietu Latvijā. Tikai tagad esmu šacis saprast cik tas ir forši.
+Man ļoti patīk piedalīties viss visādos konkursos. Kad gāju 4. klasē mani ieinteresēja robotika kur vajadzēja taisīt robotus un algoritmus tiem. 4. klases beigās man bija pietiekami daudz pieredzes pēc skolotāja teiktā ka varu piedalīties sumo botu sacensībās, un kaut kur no ~100 vai vairāk dalībniekiem, es ar savu komandas biedru ieguvām septīto vietu Latvijā. Tikai tagad esmu sācis saprast cik tas ir forši.
+![Bilde netika lejuplādēta](bilde.jpg)
+Šeit var redzēt kur piedalos vienā no citiem konkursiem kas nav saistīts ar datortehniku.
