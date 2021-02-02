@@ -41,3 +41,8 @@ Man ļoti patīk piedalīties viss visādos konkursos. Kad gāju 4. klasē mani 
 - [+] Back-end
 - [-] JavaScript
 
+# Īsumā
+| Vārds | Uzvārds | Vecums | Prog. valoda | Pieredze (laiks) |
+| ----------- | ----------- |
+| Renārs | Gausiņš | 17 | Python | 2 gadi |
+|
