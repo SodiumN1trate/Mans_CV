@@ -19,8 +19,9 @@ Tas esmu es Renārs Gausiņš un man ir 17 gadi. Interesējos par datoriem no č
 
     UserInput = int(input("Ievadiet fibonačī kārtas skaitli: "))
     fibonacci(UserInput)
-
 '''
+
+
 Šī ir programma kas aprēķina fibonacci skaitļus. Šo programmu rakstīju kaut kur pusgadu atpakaļ. Intreses pēc man vajadzētu uztaisīt vel vienu reizi šo pašu programmu un salīdzināt vai esmu progresējis programmēšanā.
 
 # Konkursi un panākumi
