@@ -1,10 +1,11 @@
 # CV Renāra Gausiņš CV
 ![Bilde netika lejuplādēta](https://cdn.discordapp.com/attachments/712432238658322513/806105436679700510/unknown.png)
+---
 Tas esmu es Renārs Gausiņš un man ir 17 gadi. Interesējos par datoriem no četru gadu vecuma, un jau divus gadu kā nodarbojos ar mājaslapu izveidi uz Python Django. Esmu iesaistijies viss visādās programmēšanas sfērās robotika, spēļu izveide, programmu izveidi u.t.t.
 
 # Kods
 
-`import pyautogui
+` import pyautogui
 import time
 
 time.sleep(10)
@@ -12,7 +13,7 @@ time.sleep(10)
 status = 0
 
 for x in range(0, 300):
-    pyautogui.click()`
+    pyautogui.click() `
 
 
 
@@ -20,10 +21,15 @@ for x in range(0, 300):
 
 # Konkursi un panākumi
 
-'''
 Man ļoti patīk piedalīties viss visādos konkursos. Kad gāju 4. klasē mani ieinteresēja robotika kur vajadzēja taisīt robotus un algoritmus tiem. 4. klases beigās man bija pietiekami daudz pieredzes pēc skolotāja teiktā ka varu piedalīties sumo botu sacensībās, un kaut kur no ~100 vai vairāk dalībniekiem, es ar savu komandas biedru ieguvām septīto vietu Latvijā. Tikai tagad esmu sācis saprast cik tas ir forši.
 ---
 ![Bilde netika lejuplādēta](bilde.jpg)
 ---
 Šeit var redzēt kur piedalos vienā no citiem konkursiem kas nav saistīts ar datortehniku.
-'''
+
+
+# Saprotu/protu/pārzinu:
+1. Python, HTML un CSS pamati.
+2. Framework Django
+3. +- Front-end
+4. Back-end
