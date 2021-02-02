@@ -12,8 +12,7 @@ time.sleep(10)
 status = 0
 
 for x in range(0, 300):
-    pyautogui.click()
-`
+    pyautogui.click()`
 
 
 Šī ir programma kas aprēķina fibonacci skaitļus. Šo programmu rakstīju kaut kur pusgadu atpakaļ. Intreses pēc man vajadzētu uztaisīt vel vienu reizi šo pašu programmu un salīdzināt vai esmu progresējis programmēšanā.
