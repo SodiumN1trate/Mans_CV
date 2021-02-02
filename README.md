@@ -3,7 +3,7 @@
 Tas esmu es Renārs Gausiņš un man ir 17 gadi. Interesējos par datoriem no četru gadu vecuma, un jau divus gadu kā nodarbojos ar mājaslapu izveidi uz Python Django. Esmu iesaistijies viss visādās programmēšanas sfērās robotika, spēļu izveide, programmu izveidi u.t.t.
 
 # Kods
-''' 
+``
 def fibonacci(UserInput):
     if UserInput == 0:
         print("Fibonačī skaitlis: 0")
@@ -19,7 +19,7 @@ def fibonacci(UserInput):
 
 UserInput = int(input("Ievadiet fibonačī kārtas skaitli: "))
 fibonacci(UserInput)
-'''
+``
 
 
 Šī ir programma kas aprēķina fibonacci skaitļus. Šo programmu rakstīju kaut kur pusgadu atpakaļ. Intreses pēc man vajadzētu uztaisīt vel vienu reizi šo pašu programmu un salīdzināt vai esmu progresējis programmēšanā.
