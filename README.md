@@ -3,8 +3,7 @@
 Tas esmu es Renārs Gausiņš un man ir 17 gadi. Interesējos par datoriem no četru gadu vecuma, un jau divus gadu kā nodarbojos ar mājaslapu izveidi uz Python Django. Esmu iesaistijies viss visādās programmēšanas sfērās robotika, spēļu izveide, programmu izveidi u.t.t.
 
 # Kods
-`
-import pyautogui
+`import pyautogui
 import time
 
 time.sleep(10)
