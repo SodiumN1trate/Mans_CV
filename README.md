@@ -28,7 +28,7 @@ Man ļoti patīk piedalīties viss visādos konkursos. Kad gāju 4. klasē mani 
 Šeit var redzēt kur piedalos vienā no citiem konkursiem kas nav saistīts ar datortehniku.
 
 
-# Saprotu/protu/pārzinu:
+# Projekti:
 1. SodiumNitartes blog
 2. Discord bot Foozie
 3. Muzon reklāmu mājaslapa
