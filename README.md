@@ -29,7 +29,13 @@ Man ļoti patīk piedalīties viss visādos konkursos. Kad gāju 4. klasē mani 
 
 
 # Saprotu/protu/pārzinu:
-1. Python, HTML un CSS pamati.
-2. Framework Django
-3. +- Front-end
-4. Back-end
+1. SodiumNitartes blog
+2. Discord bot Foozie
+3. Muzon reklāmu mājaslapa
+4. Miten spēļu tornamentu mājaslapa
+
+# Saprotu/pārzinu/protu:
+- [+] Python, HTML un CSS pamati.
+- [+-] Framework Django
+- [+-] Front-end
+- [+] Back-end
