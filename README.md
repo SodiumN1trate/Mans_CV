@@ -36,6 +36,8 @@ Man ļoti patīk piedalīties viss visādos konkursos. Kad gāju 4. klasē mani 
 
 # Saprotu/pārzinu/protu:
 - [+] Python, HTML un CSS pamati.
-- [+-] Framework Django
+- [+-] Framework Django :+1:
 - [+-] Front-end
 - [+] Back-end
+- [-] JavaScript
+
