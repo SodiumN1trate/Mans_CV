@@ -5,7 +5,8 @@ Tas esmu es Renārs Gausiņš un man ir 17 gadi. Interesējos par datoriem no č
 
 # Kods
 
-`{ import pyautogui
+```
+import pyautogui
 import time
 
 time.sleep(10)
@@ -13,7 +14,8 @@ time.sleep(10)
 status = 0
 
 for x in range(0, 300):
-    pyautogui.click() }`
+    pyautogui.click()
+```    
 
 
 
@@ -22,6 +24,7 @@ for x in range(0, 300):
 Man ļoti patīk piedalīties viss visādos konkursos. Kad gāju 4. klasē mani ieinteresēja robotika kur vajadzēja taisīt robotus un algoritmus tiem. 4. klases beigās man bija pietiekami daudz pieredzes pēc skolotāja teiktā ka varu piedalīties sumo botu sacensībās, un kaut kur no ~100 vai vairāk dalībniekiem, es ar savu komandas biedru ieguvām septīto vietu Latvijā. Tikai tagad esmu sācis saprast cik tas ir forši.
 ---
 ![Bilde netika lejuplādēta](bilde.jpg)
+---
 Šeit var redzēt kur piedalos vienā no citiem konkursiem kas nav saistīts ar datortehniku.
 
 
