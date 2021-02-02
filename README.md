@@ -35,11 +35,11 @@ Man ļoti patīk piedalīties viss visādos konkursos. Kad gāju 4. klasē mani 
 4. Miten spēļu tornamentu mājaslapa
 
 # Saprotu/pārzinu/protu:
-- [+] Python, HTML un CSS pamati.
-- [+-] Framework Django :+1:
-- [+-] Front-end
-- [+] Back-end
-- [-] JavaScript
+- [x] Python, HTML un CSS pamati.
+- [x] Framework Django :+1:
+- [ ] Front-end
+- [x] Back-end
+- [ ] JavaScript
 
 # Īsumā
 | Vārds | Uzvārds | Vecums | Prog. valoda | Pieredze (laiks) |
